@@ -1,0 +1,18 @@
+{
+  "name": "typex",
+  "version": "0.3.0",
+  "description": "Nodejs package for coryandrew1988/overload-jQuery-extension (https://github.com/coryandrew1988/overload-jQuery-extension)",
+  "main": "typex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OpenComb/typex.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/OpenComb/typex/issues"
+  }
+}

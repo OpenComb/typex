@@ -532,4 +532,6 @@
 
     global.typex = typex;
 
-}(this));
+}(exports));
+
+module.exports = exports.typex ;
